@@ -1,2 +1,2 @@
-# humblemind42.github.io
+# recursiverich.github.io
 Personal Webpage
