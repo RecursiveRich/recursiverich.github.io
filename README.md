@@ -1,2 +1,2 @@
 # Personal Webpage
-recursiverich.github.io
+https://recursiverich.github.io/
